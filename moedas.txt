@@ -1,0 +1,163 @@
+{'Afegane (AFN)': 5
+'Ariary (MGA)': 406
+'Balboa (PAB)': 20
+'Baht (THB)': 15
+'Birr etíope (ETB)': 9
+'Bolivar Soberano Venezuelano (VES)': 27
+'Boliviano (BOB)': 30
+'Cedi (GHS)': 35
+'Colon da Costa Rica (CRC)': 40
+'Colon de El Salvador (SVC)': 45
+'Cordoba Ouro (NIO)': 51
+'Coroa dinamarquesa (DKK)': 55
+'Coroa islandesa (ISK)': 60
+'Coroa norueguesa (NOK)': 65
+'Coroa sueca (SEK)': 70
+'Coroa tcheca (CZK)': 75
+'Dalasi (GMD)': 90
+'Dinar argelino (DZD)': 95
+'Dinar sérvio (RSD)': 133
+'Dinar do Bahrein (BHD)': 105
+'Dinar iraquiano (IQD)': 115
+'Dinar jordaniano (JOD)': 125
+'Dinar do Kuwait (KWD)': 100
+'Dinar da Líbia (LYD)': 130
+'Dinar macedonio (MKD)': 132
+'Dinar tunisiano (TND)': 135
+'Direito especial de saque (XDR)': 138
+'Dirham dos Emirados Árabes Unidos (AED)': 145
+'Dirham marroquino (MAD)': 139
+'Dobra (STD)': 148
+'Dólar australiano (AUD)': 150
+'Dólar do Brunei (BND)': 185
+'Dólar canadense (CAD)': 165
+'Dólar do Caribe Oriental (XCD)': 215
+'Dólar das Ilhas Cayman (KYD)': 190
+'Dólar de Cingapura (SGD)': 195
+'Dólar da Guiana (GYD)': 170
+'Dólar da Namíbia (NAD)': 173
+'Dólar dos Estados Unidos (USD)': 220
+'Dólar de Fiji (FJD)': 200
+'Dólar de Hong Kong (HKD)': 205
+'Dólar das Ilhas Salomão (SBD)': 250
+'Dólar da Libéria (LRD)': 235
+'Dólar da Nova Zelândia (NZD)': 245
+'Dolar do Zimbabue (ZWL)': 217
+'Dólar das Bahamas (BSD)': 155
+'Dólar de Barbados (BBD)': 175
+'Dólar do Belize (BZD)': 180
+'Dólar de Bermuda (BMD)': 160
+'Dólar jamaicano (JMD)': 230
+'Dólar do Suriname (SRD)': 255
+'Dólar de Trindade e Tobago (TTD)': 210
+'Dong (VND)': 260
+'Dram (AMD)': 275
+'Escudo cabo-verdiano (CVE)': 295
+'Euro (EUR)': 978
+'Florim de Aruba (AWG)': 328
+'Forint (HUF)': 345
+'Franco CFA BCEAO (XOF)': 372
+'Franco CFA BEAC (XAF)': 370
+'Franco CFP (XPF)': 380
+'Franco congolês (CDF)': 363
+'Franco suíço (CHF)': 425
+'Franco do Burundi (BIF)': 365
+'Franco das Comores (KMF)': 368
+'Franco do Djibuti (DJF)': 390
+'Franco da Guiné (GNF)': 398
+'Franco de Ruanda (RWF)': 420
+'Gourde (HTG)': 440
+'Guarani (PYG)': 450
+'Florim (ANG)': 325
+'Grívnia (UAH)': 460
+'Iene (JPY)': 470
+'Kina (PGK)': 778
+'Kuna (HRK)': 779
+'Kwanza (AOA)': 635
+'Lari (GEL)': 482
+'Lek (ALL)': 490
+'Lempira (HNL)': 495
+'Leone (SLL)': 500
+'Leu da Moldávia (MDL)': 503
+'Lev (BGN)': 510
+'Libra Esterlina (GBP)': 540
+'Libra Sul Sudanesa (SSP)': 136
+'Libra egípcia (EGP)': 535
+'Libra das Malvinas (FKP)': 545
+'Libra de Gibraltar (GIP)': 530
+'Libra libanesa (LBP)': 560
+'Libra da Síria (SYP)': 575
+'Libra de Santa Helena (SHP)': 570
+'Lilangeni (SZL)': 585
+'Lira turca (TRY)': 642
+'Loti (LSL)': 603
+'Manat do Azerbaijão (AZN)': 607
+'Marco conversível (BAM)': 612
+'Naira (NGN)': 630
+'Nakfa (ERN)': 625
+'Ngultrum (BTN)': 665
+'Nova libra sudanesa (SDG)': 134
+'Metical (MZN)': 622
+'Novo Dólar de Taiwan (TWD)': 640
+'Leu romeno (RON)': 506
+'Manat turcomano (TMT)': 608
+'Novo sol (PEN)': 660
+'Ouro (XAU)': 998
+'Paanga (TOP)': 680
+'Pataca (MOP)': 685
+'Peso argentino (ARS)': 706
+'Peso chileno (CLP)': 715
+'Peso colombiano (COP)': 720
+'Peso cubano (CUP)': 725
+'Peso filipino (PHP)': 735
+'Peso da Guiné-Bissau (GWP)': 738
+'Peso mexicano (MXN)': 741
+'Peso dominicano (DOP)': 730
+'Peso Uruguaio (UYU)': 745
+'Pula (BWP)': 755
+'Kwacha de Zambia (ZMW)': 766
+'Kwacha de Malavi (MWK)': 760
+'Quetzal guatemalteco (GTQ)': 770
+'Kyat (MMK)': 775
+'Kip (LAK)': 780
+'Rand (ZAR)': 785
+'Real Brasileiro (BRL)': 790
+'Renminbi (CNY)': 795
+'Renminbi Hong Kong (CNH)': 796
+'Rial saudita (SAR)': 820
+'Rial do Qatar (QAR)': 800
+'Rial do Iêmen (YER)': 810
+'Rial iraniano (IRR)': 815
+'Rial Omã (OMR)': 805
+'Riel (KHR)': 825
+'Ringgit (MYR)': 828
+'RUBLO BIELORRUSSO (BYN)': 831
+'Rublo (RUB)': 830
+'Rufia maldivense (MVR)': 870
+'Rupia das Seychelles (SCR)': 850
+'Rupia indiana (INR)': 860
+'Rupia indonésia (IDR)': 865
+'Rupia de Maurício (MUR)': 840
+'Rupia nepalesa (NPR)': 845
+'Rupia paquistanesa (PKR)': 875
+'Rupia do Sri Lanka (LKR)': 855
+'Shekel (ILS)': 880
+'Som (KGS)': 892
+'Som Uzbeque (UZS)': 893
+'Somoni (TJS)': 835
+'Taka (BDT)': 905
+'Tala (WST)': 912
+'Tenge (KZT)': 973
+'Tugrik (MNT)': 915
+'Ouguiya (MRU)': 671
+'Ouguiya (MRO)': 670
+'Unidade monetária européia (XEU)': 918
+'Unidade de Fomento (código de fundos) (CLF)': 197
+'Vatu (VUV)': 920
+'Won sul coreano (KRW)': 930
+'Won norte coreano (KPW)': 925
+'Xelim queniano (KES)': 950
+'Xelim somali (SOS)': 960
+'Xelim da Tanzânia (TZS)': 946
+'Xelim de Uganda (UGX)': 955
+'Zloty (PLN)': 975}
