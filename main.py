@@ -8,6 +8,7 @@ file = open('moedas.txt', 'r', encoding='UTF-8')
 moedas = file.read().replace('\n',', ')
 file.close()
 moedas = ast.literal_eval(moedas)
+
 dataAtual = str(datetime.datetime.now())
 dataAtual = dataAtual[:dataAtual.index(' ')]
 dataAtual = dataAtual[:dataAtual.rindex('-')]+str(int(dataAtual[dataAtual.rindex('-'):])+1)
@@ -35,15 +36,12 @@ def conversao():
 
         valor = soup.find('valor-convertido').text
         valor2.set(valor)
-        cotacao.setvar(dataAtual)
 
         print(">>> Conversão bem-sucedida")
-        return True
 
     except Exception as E:
         print(">>> Erro na conversão")
         print(">>> "+ str(E))
-        return False
 
 def inversao():
     temp = moeda1.get()
@@ -60,6 +58,7 @@ def atualizarCotacao():
             req = requests.get(url)
             soup = BeautifulSoup(req.text, 'html.parser')
             valor = soup.find('valor-convertido')
+            
             if valor != None:
                 break
             else:
@@ -102,8 +101,7 @@ if __name__ == "__main__":
     moeda2dropdown = OptionMenu(window,moeda2, *moedas)
     moeda2dropdown.grid(row=1, column=3)
 
-    cotacaoText = ''
-    cotacao = Label(window, text='Cotação de:\n'+cotacaoText)
+    cotacao = Label(window, text='Cotação de:\n---')
     cotacao.grid(row=3,column=0)
     cotacao.config(text='Cotação de:\n'+dataAtual.replace('-','/'))
     
